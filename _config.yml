@@ -1,7 +1,7 @@
 name: "Taylor's Mission"
 favicon: null
-layout_spectrum: 0.13034698739647865
-typography_spectrum: 0.9914876825641841
+layout_spectrum: 0.15383
+typography_spectrum: 0.8578
 cta:
   domain: null
   bucket: null
