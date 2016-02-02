@@ -1,0 +1,28 @@
+name: "Taylor's Mission"
+favicon: null
+layout_spectrum: 0.13034698739647865
+typography_spectrum: 0.9914876825641841
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.45262580551207066
+  lightness: 0.028388673439621925
+  saturation: 0.7385722566395998
+  rhythmicContrast: 0.9188426055479795
+purpose: []
