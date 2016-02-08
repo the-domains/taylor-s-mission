@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Taylor's Mission]]></title>
         <description><![CDATA[Taylor's Mission]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/taylor-s-mission/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Feb 2016 03:22:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 08 Feb 2016 04:13:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/taylor-s-mission/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>"Taylor's Mission" is the forthcoming first novel from Richard Shuman.  Three spaceships speed toward mankind's first landing on the red planet.  One mission has lost not only its engines, but also one of her crew.</p>]]></description>
+            <link>https://thegrid.ai/taylor-s-mission/0cea5bfb-4250-4392-aa39-d8b7a537fcf4/index.html</link>
+            <guid isPermaLink="false">0cea5bfb-4250-4392-aa39-d8b7a537fcf4</guid>
+            <pubDate>Mon, 08 Feb 2016 04:13:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9027bea5-7a14-40df-a3be-59d855f68a77.jpg">]]></description>
-            <link>undefinedad83fd9b-44a8-4f2f-b4e7-320a105b1114/index.html</link>
+            <link>https://thegrid.ai/taylor-s-mission/ad83fd9b-44a8-4f2f-b4e7-320a105b1114/index.html</link>
             <guid isPermaLink="false">ad83fd9b-44a8-4f2f-b4e7-320a105b1114</guid>
             <pubDate>Tue, 02 Feb 2016 03:22:20 GMT</pubDate>
         </item>
